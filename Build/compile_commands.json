@@ -1,0 +1,22 @@
+[
+{
+  "directory": "G:/C++/AW/XO Game/XO-Game/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DENABLE_DOCTEST_IN_LIBRARY @CMakeFiles/myLibrary.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles\\myLibrary.dir\\src\\Foo.cpp.obj -c \"G:\\C++\\AW\\XO Game\\XO-Game\\src\\Foo.cpp\"",
+  "file": "G:/C++/AW/XO Game/XO-Game/src/Foo.cpp"
+},
+{
+  "directory": "G:/C++/AW/XO Game/XO-Game/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DENABLE_DOCTEST_IN_LIBRARY @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles\\main.dir\\app\\main.cpp.obj -c \"G:\\C++\\AW\\XO Game\\XO-Game\\app\\main.cpp\"",
+  "file": "G:/C++/AW/XO Game/XO-Game/app/main.cpp"
+},
+{
+  "directory": "G:/C++/AW/XO Game/XO-Game/Build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe -DENABLE_DOCTEST_IN_LIBRARY @CMakeFiles/unit_tests.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles\\unit_tests.dir\\main.cpp.obj -c \"G:\\C++\\AW\\XO Game\\XO-Game\\tests\\main.cpp\"",
+  "file": "G:/C++/AW/XO Game/XO-Game/tests/main.cpp"
+},
+{
+  "directory": "G:/C++/AW/XO Game/XO-Game/Build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe -DENABLE_DOCTEST_IN_LIBRARY @CMakeFiles/unit_tests.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles\\unit_tests.dir\\foo.cpp.obj -c \"G:\\C++\\AW\\XO Game\\XO-Game\\tests\\foo.cpp\"",
+  "file": "G:/C++/AW/XO Game/XO-Game/tests/foo.cpp"
+}
+]
